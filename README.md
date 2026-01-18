@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I’m currently studying Web Development at Cornerstone International Community College of Canada.
+My goal is to become a Full-Stack Developer in Canada.
 <!--
 **keisei-dev/keisei-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
