@@ -7,7 +7,7 @@ My goal is to become a Full-Stack Developer in Canada.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on learning how to use Git and GitHub to manage projects.
-- 🌱 I’m currently learning the fundamentals of the Command Line
+- 🌱 I’m currently learning the fundamentals of the Command Line.
 - 👯 I’m looking to collaborate on beginner-friendly projects where I can practice Git and project structure.
 - 🤔 I’m looking for help with understanding branching, pull requests, and collaborating using GitHub.
 - 💬 Ask me about my learning journey into web development as an international student in Canada.
