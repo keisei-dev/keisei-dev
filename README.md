@@ -29,6 +29,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E4A72,50:456B9E,100:6E92C4&height=48&text=Connect&fontSize=24&fontColor=ffffff&fontAlignY=55&fontFamily=Trebuchet%20MS&animation=fadeIn" />
 
 <p align="center">
+  Feel free to reach out — I'm always happy to connect, collaborate,<br />
+  or talk about web development. Let's build something great together!
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/keisei-kondo-0bab093a3/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="44" />
   </a>
