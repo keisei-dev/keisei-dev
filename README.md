@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E4A72,50:456B9E,100:6E92C4&height=230&section=header&text=Keisei%20Kondo&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20PostgreSQL&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E4A72,50:456B9E,100:6E92C4&height=230&section=header&text=Keisei%20Kondo&fontSize=52&fontColor=ffffff&fontAlignY=36&fontFamily=Trebuchet%20MS&desc=Full-Stack%20Developer%20%7C%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20PostgreSQL&descSize=18&descAlignY=58&animation=twinkling" />
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E4A72,50:456B9E,100:6E92C4&height=48&text=Profile&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E4A72,50:456B9E,100:6E92C4&height=48&text=Profile&fontSize=24&fontColor=ffffff&fontAlignY=55&fontFamily=Trebuchet%20MS&animation=twinkling" />
 
 <p align="center">
   Aspiring full-stack developer from Japan 🇯🇵, based in Vancouver 🇨🇦.<br />
@@ -18,7 +18,7 @@
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E4A72,50:456B9E,100:6E92C4&height=48&text=Tech%20Stacks&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E4A72,50:456B9E,100:6E92C4&height=48&text=Tech%20Stacks&fontSize=24&fontColor=ffffff&fontAlignY=55&fontFamily=Trebuchet%20MS&animation=twinkling" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,astro,postgres,html,css,git,github,vscode&theme=dark&perline=6" />
@@ -26,7 +26,7 @@
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E4A72,50:456B9E,100:6E92C4&height=48&text=Connect&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E4A72,50:456B9E,100:6E92C4&height=48&text=Connect&fontSize=24&fontColor=ffffff&fontAlignY=55&fontFamily=Trebuchet%20MS&animation=twinkling" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keisei-kondo-0bab093a3/">
