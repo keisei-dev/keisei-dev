@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E4A72,50:456B9E,100:6E92C4&height=230&section=header&text=Keisei%20Kondo&fontSize=52&fontColor=ffffff&fontAlignY=36&fontFamily=Trebuchet%20MS&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%C2%B7%20TypeScript%20%C2%B7%20SQL&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E4A72,50:456B9E,100:6E92C4&height=230&section=header&text=Keisei%20Kondo&fontSize=52&fontColor=ffffff&fontAlignY=36&fontFamily=Trebuchet%20MS&desc=Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <br />
 
