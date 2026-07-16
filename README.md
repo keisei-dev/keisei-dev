@@ -21,7 +21,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E4A72,50:456B9E,100:6E92C4&height=48&text=Tech%20Stacks&fontSize=24&fontColor=ffffff&fontAlignY=55&fontFamily=Trebuchet%20MS" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,astro,postgres,html,css,git,github,vscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,astro,postgres,html,css,git,github&theme=dark&perline=6" />
 </p>
 
 <br />
