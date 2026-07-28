@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,astro,postgres,html,css,git,github&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github&theme=dark&perline=7" />
 </p>
 
 <br />
