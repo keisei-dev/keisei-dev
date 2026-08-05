@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🔭&nbsp; Building front-end experiences with <b>TypeScript</b>, <b>React</b>, <b>Astro</b> &amp; <b>Three.js</b><br />
+  🔭&nbsp; Building front-end experiences with <b>TypeScript</b>, <b>React</b> &amp; <b>Astro</b><br />
   🌱&nbsp; Deepening skills in UI craft, accessibility, and thoughtful motion<br />
   🤝&nbsp; Open to full-time front-end roles from <b>January 2027</b>
 </p>
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,vite,threejs,git,github&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,git,github&theme=dark&perline=4" />
 </p>
 
 <br />
