@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E4A72,50:456B9E,100:6E92C4&height=230&section=header&text=Keisei%20Kondo&fontSize=52&fontColor=ffffff&fontAlignY=36&fontFamily=Trebuchet%20MS&desc=Full-Stack%20Developer&descSize=18&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E4A72,50:456B9E,100:6E92C4&height=230&section=header&text=Keisei%20Kondo&fontSize=52&fontColor=ffffff&fontAlignY=36&fontFamily=Trebuchet%20MS&desc=Front-End%20Developer&descSize=18&descAlignY=58" />
 
 <br />
 
@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  Aspiring full-stack developer from Japan 🇯🇵, based in Vancouver 🇨🇦.<br />
+  Front-end developer from Japan 🇯🇵, based in Vancouver 🇨🇦.<br />
   Studying Web &amp; Mobile App Development at <b>CICCC</b>, focused on building<br />
-  reliable, well-structured web applications from database to interface.
+  clear, accessible interfaces with TypeScript, React, and careful CSS.
 </p>
 
 <p align="center">
-  🔭&nbsp; Building full-stack apps with <b>Node.js</b>, <b>Express</b>, <b>Astro</b> &amp; <b>PostgreSQL</b><br />
-  🌱&nbsp; Deepening my skills in TypeScript, relational data modeling &amp; clean architecture<br />
-  🤝&nbsp; Open to internships and collaborative projects
+  🔭&nbsp; Building front-end experiences with <b>TypeScript</b>, <b>React</b>, <b>Astro</b> &amp; <b>Three.js</b><br />
+  🌱&nbsp; Deepening skills in UI craft, accessibility, and thoughtful motion<br />
+  🤝&nbsp; Open to full-time front-end roles from <b>January 2027</b>
 </p>
 
 <br />
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,git,github&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,vite,threejs,git,github&theme=dark&perline=5" />
 </p>
 
 <br />
@@ -35,8 +35,8 @@
 </p>
 
 <p align="center">
-  Feel free to reach out — I'm always happy to connect, collaborate,<br />
-  or talk about web development. Let's build something great together!
+  Hiring a front-end developer in Vancouver or on a remote-friendly team?<br />
+  I'd love to connect — feel free to reach out.
 </p>
 
 <p align="center">
