@@ -9,12 +9,12 @@
 <p align="center">
   Full-stack developer from Japan 🇯🇵, based in Vancouver 🇨🇦.<br />
   Studying Web &amp; Mobile App Development at <b>CICCC</b>, building and learning<br />
-  React/TypeScript front ends, Node.js/Express APIs, and SQL/NoSQL databases.
+  React/TypeScript front ends, Node.js/Express APIs, and PostgreSQL databases.
 </p>
 
 <p align="center">
   🔭&nbsp; Building full-stack apps with <b>React</b>/<b>TypeScript</b> and <b>Node.js</b><br />
-  🌱&nbsp; Learning <b>Express</b> APIs and <b>SQL</b>/<b>NoSQL</b> databases alongside the front end<br />
+  🌱&nbsp; Learning <b>Express</b> APIs and <b>PostgreSQL</b> databases alongside the front end<br />
   🤝&nbsp; Open to full-time roles from <b>January 2027</b>
 </p>
 
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,docker,git&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,git&theme=dark&perline=4" />
 </p>
 
 <br />
