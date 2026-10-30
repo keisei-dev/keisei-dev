@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Full-stack developer from Japan 🇯🇵, based in Vancouver 🇨🇦.<br />
+  Full-Stack Developer from Japan 🇯🇵, based in Vancouver 🇨🇦.<br />
   Studying Web &amp; Mobile App Development at <b>CICCC</b>, building and learning<br />
   React/TypeScript front ends, Node.js/Express APIs, and PostgreSQL databases.
 </p>
