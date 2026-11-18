@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/keisei-kondo-0bab093a3/">
+  <a href="https://www.linkedin.com/in/keisei-kondo">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="44" />
   </a>
   &nbsp;
